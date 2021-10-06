@@ -1,7 +1,7 @@
-# keycloak-helm
+# Keycloak-helm
 Keycloak helm charts
 
-I created this keycloak helm chart after failing to run the ones host ted bitnami and codecentri repos.
+I created this keycloak helm chart after failing to run the ones hosted bitnami and codecentric repos.
 Just clone this repo and create the keycloack instance in a desired namespace and you should be good to go
 
 As of creation. I used the latest images of keycloak and postgres
