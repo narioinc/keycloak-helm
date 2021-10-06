@@ -10,4 +10,5 @@ postgres: v14.0  (https://github.com/docker-library/postgres/blob/db430ccd715678
 
 # Installation
 1) clone this repo and execute the command below
-Helm install keycloak ./keycloak-helm -n keycloak --create-namespace
+
+* $> helm install keycloak ./keycloak-helm -n keycloak --create-namespace
